@@ -8,5 +8,6 @@ public class ArraySum7 {
             sum+=i;
             System.out.println("The sum = " + sum);
         }
+
     }
 }

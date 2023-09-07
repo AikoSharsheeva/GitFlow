@@ -1,4 +1,4 @@
-public class Array2DNestedLoop8Task {
+public class ArrayTask8NestedLoop2D {
     public static void main(String[] args) {
         int [][]a = new int[10][10];
 
