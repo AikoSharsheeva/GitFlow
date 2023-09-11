@@ -15,7 +15,7 @@ public class Map24ContainsKey {
         expensiveCars.put("4","Bugatti" );
         expensiveCars.put("5", "Mercedes");
         expensiveCars.put("6", "Lexus");
-        if(expensiveCars.containsKey(6)){
+        if(expensiveCars.containsKey("6")){
             System.out.println("Contains key num 6");
         }
         return expensiveCars;
