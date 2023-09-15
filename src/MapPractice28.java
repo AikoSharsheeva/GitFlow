@@ -1,7 +1,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class MapPractice {
+public class MapPractice28 {
     public static void main(String[] args) {
         String str = "hello world hello wedevx wedevx wedevx java";
        String[] words=str.split(" ");
